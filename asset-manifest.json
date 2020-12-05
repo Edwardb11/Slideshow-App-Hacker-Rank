@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Slideshow-App-Hacker-Rank/static/css/main.615a1e86.chunk.css",
+    "main.js": "/Slideshow-App-Hacker-Rank/static/js/main.9782128a.chunk.js",
+    "main.js.map": "/Slideshow-App-Hacker-Rank/static/js/main.9782128a.chunk.js.map",
+    "runtime-main.js": "/Slideshow-App-Hacker-Rank/static/js/runtime-main.ac9cf504.js",
+    "runtime-main.js.map": "/Slideshow-App-Hacker-Rank/static/js/runtime-main.ac9cf504.js.map",
+    "stencil-h8k-logo_2-entry-js.js": "/Slideshow-App-Hacker-Rank/static/js/stencil-h8k-logo_2-entry-js.68f60195.chunk.js",
+    "stencil-h8k-logo_2-entry-js.js.map": "/Slideshow-App-Hacker-Rank/static/js/stencil-h8k-logo_2-entry-js.68f60195.chunk.js.map",
+    "stencil-polyfills-css-shim.js": "/Slideshow-App-Hacker-Rank/static/js/stencil-polyfills-css-shim.2a263758.chunk.js",
+    "stencil-polyfills-css-shim.js.map": "/Slideshow-App-Hacker-Rank/static/js/stencil-polyfills-css-shim.2a263758.chunk.js.map",
+    "static/css/4.4932a258.chunk.css": "/Slideshow-App-Hacker-Rank/static/css/4.4932a258.chunk.css",
+    "static/js/4.ab2bcc45.chunk.js": "/Slideshow-App-Hacker-Rank/static/js/4.ab2bcc45.chunk.js",
+    "static/js/4.ab2bcc45.chunk.js.map": "/Slideshow-App-Hacker-Rank/static/js/4.ab2bcc45.chunk.js.map",
+    "static/js/5.24d72c61.chunk.js": "/Slideshow-App-Hacker-Rank/static/js/5.24d72c61.chunk.js",
+    "static/js/5.24d72c61.chunk.js.map": "/Slideshow-App-Hacker-Rank/static/js/5.24d72c61.chunk.js.map",
+    "static/js/6.062bd408.chunk.js": "/Slideshow-App-Hacker-Rank/static/js/6.062bd408.chunk.js",
+    "static/js/6.062bd408.chunk.js.map": "/Slideshow-App-Hacker-Rank/static/js/6.062bd408.chunk.js.map",
+    "index.html": "/Slideshow-App-Hacker-Rank/index.html",
+    "precache-manifest.3549e76c998e82bdc5de1ab9fbf5699a.js": "/Slideshow-App-Hacker-Rank/precache-manifest.3549e76c998e82bdc5de1ab9fbf5699a.js",
+    "service-worker.js": "/Slideshow-App-Hacker-Rank/service-worker.js",
+    "static/css/4.4932a258.chunk.css.map": "/Slideshow-App-Hacker-Rank/static/css/4.4932a258.chunk.css.map",
+    "static/css/main.615a1e86.chunk.css.map": "/Slideshow-App-Hacker-Rank/static/css/main.615a1e86.chunk.css.map",
+    "static/js/4.ab2bcc45.chunk.js.LICENSE.txt": "/Slideshow-App-Hacker-Rank/static/js/4.ab2bcc45.chunk.js.LICENSE.txt",
+    "static/js/5.24d72c61.chunk.js.LICENSE.txt": "/Slideshow-App-Hacker-Rank/static/js/5.24d72c61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac9cf504.js",
+    "static/css/4.4932a258.chunk.css",
+    "static/js/4.ab2bcc45.chunk.js",
+    "static/css/main.615a1e86.chunk.css",
+    "static/js/main.9782128a.chunk.js"
+  ]
+}
